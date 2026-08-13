@@ -1,0 +1,448 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Quantitative Trading Strategies"
+    },
+    {
+      "description": "Comparing three major approaches to quantitative trading: Quantitative Trading, Algorithmic Trading, and AI-Agent Trading.",
+      "items": [],
+      "title": "Trading Paradigms Comparison"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Frontier: Emerging Topics (2025/2026)"
+    },
+    {
+      "description": "Multi-agent systems using large language models in specialized roles (analyst, trader, risk manager) to collaboratively process unstructured data and make trading decisions — representing a shift from fixed-rule systems toward autonomous, adaptive trading.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TradingAgents",
+          "description": "Multi-agent LLM trading framework simulating trading firm dynamics with specialized analyst and trader roles; built with LangGraph, supports GPT, Gemini, Claude, and Grok.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T15:55:05Z",
+            "owner": "TauricResearch",
+            "repo": "TradingAgents",
+            "stars": 97895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vibe-Trading",
+          "description": "Natural-language multi-agent finance research framework with 29 swarm presets (investment committee, quant desk, risk committee); 7 cross-market backtest engines (A-shares/US/Crypto/Futures/Forex/Options) plus a shared-capital CompositeEngine; 5-source auto-fallback data layer (tushare/okx/yfinance/akshare/ccxt); 17-tool MCP server for Claude Desktop; CLI + FastAPI + React frontend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:33:20Z",
+            "owner": "HKUDS",
+            "repo": "Vibe-Trading",
+            "stars": 30717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FinGPT",
+          "description": "Open-source financial LLM framework with data-centric design and LoRA fine-tuning; supports sentiment analysis, robo-advising, and algorithmic trading.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-02T03:23:48Z",
+            "owner": "AI4Finance-Foundation",
+            "repo": "FinGPT",
+            "stars": 21084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FinRL",
+          "description": "Financial reinforcement learning framework supporting A2C, DDPG, PPO, TD3, SAC agents; FinRL-X adds modular infrastructure for the LLM/agentic AI era.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-13T23:02:18Z",
+            "owner": "AI4Finance-Foundation",
+            "repo": "FinRL",
+            "stars": 15998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FinRobot",
+          "description": "Open-source AI agent platform for financial analysis using LLMs with Financial Chain-of-Thought reasoning and smart scheduler for multi-source LLM integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-27T07:06:05Z",
+            "owner": "AI4Finance-Foundation",
+            "repo": "FinRobot",
+            "stars": 7771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oracle3",
+          "description": "Autonomous prediction-market trading agent for Kalshi, Polymarket, and Solana DFlow using Wang Transform pricing, Greeks, Kelly sizing, and constraint-based arbitrage strategies; Apache-2.0 with methodology documented in a companion SSRN working paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-08T07:48:25Z",
+            "owner": "YichengYang-Ethan",
+            "repo": "oracle3",
+            "stars": 255
+          }
+        }
+      ],
+      "title": "LLM-Based Trading Agents"
+    },
+    {
+      "description": "Pre-trained transformer models for temporal data that can forecast time series zero-shot or few-shot — offering out-of-the-box price/volatility forecasting and regime identification without task-specific training.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TimesFM",
+          "description": "Google Research's decoder-only foundation model (200M params) pre-trained on 100B real-world time points.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T03:27:18Z",
+            "owner": "google-research",
+            "repo": "timesfm",
+            "stars": 27302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chronos",
+          "description": "Amazon's pretrained time series models; Chronos-2 (120M params) handles univariate, multivariate, and covariate-informed zero-shot forecasting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-02T08:22:33Z",
+            "owner": "amazon-science",
+            "repo": "chronos-forecasting",
+            "stars": 5700
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TimeGPT",
+          "description": "Production-ready foundation model trained on 100B+ data points with open-source Python/R SDK; offers zero-shot forecasting and anomaly detection via API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-10T20:42:41Z",
+            "owner": "Nixtla",
+            "repo": "nixtla",
+            "stars": 3985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PatchTST",
+          "description": "Segments time series into subseries-level patches as transformer tokens, achieving quadratic reduction in attention cost while retaining local semantics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-12T13:12:51Z",
+            "owner": "yuqinie98",
+            "repo": "PatchTST",
+            "stars": 2676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lag-Llama",
+          "description": "First open-source decoder-only foundation model for probabilistic time series forecasting; developed by Morgan Stanley, ServiceNow, and Mila.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-06T12:23:52Z",
+            "owner": "time-series-foundation-models",
+            "repo": "lag-llama",
+            "stars": 1597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moirai",
+          "description": "Salesforce's masked encoder-based universal forecasting transformer, pre-trained on LOTSA (27B observations, 9 domains); handles any frequency and any number of variates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-02T18:53:33Z",
+            "owner": "SalesforceAIResearch",
+            "repo": "uni2ts",
+            "stars": 1570
+          }
+        }
+      ],
+      "title": "Transformer Time-Series Foundation Models"
+    },
+    {
+      "description": "Automating the factor-research loop itself: LLM- and RL-based systems that propose, implement, and backtest alpha factors and models with minimal human intervention.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RD-Agent",
+          "description": "Microsoft's LLM-based autonomous R&D agent; its quantitative-finance mode (RD-Agent(Q)) iteratively proposes, codes, and backtests factors and models on top of Qlib.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T11:50:56Z",
+            "owner": "microsoft",
+            "repo": "RD-Agent",
+            "stars": 14216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AlphaGen",
+          "description": "Reinforcement learning framework for generating formulaic alpha factors, optimizing the performance of the factor set as a whole rather than individual factors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-04T05:54:38Z",
+            "owner": "ICT-FinD-Lab",
+            "repo": "alphagen",
+            "stars": 1188
+          }
+        }
+      ],
+      "title": "AI-Driven Alpha Mining"
+    },
+    {
+      "description": "Denoising diffusion models applied to generate realistic synthetic market data — price series, order flows, and limit order books — enabling robust stress-testing and data augmentation for data-starved financial ML.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeepMarket",
+          "description": "Transformer-based diffusion engine for limit order book simulation; generates realistic order flows conditioned on market state.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-27T00:07:30Z",
+            "owner": "LeonardoBerti00",
+            "repo": "DeepMarket",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FinDiff",
+          "description": "Diffusion model for generating mixed-type financial tabular data; demonstrated high fidelity for downstream tasks like fraud detection and stress testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-28T21:15:53Z",
+            "owner": "sattarov",
+            "repo": "FinDiff",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "Diffusion Models for Synthetic Financial Data"
+    },
+    {
+      "description": "Quantitative approaches to decentralized finance: MEV extraction, AMM liquidity provision optimization, yield farming, and on-chain analytics across hundreds of chains.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ultimate-defi-research-base",
+          "description": "Curated collection of DeFi and blockchain research covering MEV, AMM design, yield optimization, and on-chain analytics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-14T19:04:35Z",
+            "owner": "OffcierCia",
+            "repo": "ultimate-defi-research-base",
+            "stars": 2207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flashbots mev-boost",
+          "description": "Reference implementation of proposer-builder separation (PBS) for Ethereum; core infrastructure for the MEV supply chain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-30T14:02:06Z",
+            "owner": "flashbots",
+            "repo": "mev-boost",
+            "stars": 1437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flashbots rbuilder",
+          "description": "Open-source, high-performance Ethereum MEV-Boost block builder written in Rust; supports multiple building algorithms and backtesting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-20T04:47:25Z",
+            "owner": "flashbots",
+            "repo": "rbuilder",
+            "stars": 560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DefiLlama",
+          "description": "Open-source DeFi analytics dashboard tracking TVL, yields, fees, and volumes across thousands of protocols; provides free API via defillama-sdk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-23T17:53:29Z",
+            "owner": "DefiLlama",
+            "repo": "defillama-sdk",
+            "stars": 76
+          }
+        }
+      ],
+      "title": "On-Chain / DeFi Quantitative Strategies"
+    },
+    {
+      "description": "List of software tools and platforms used in quantitative finance.",
+      "items": [],
+      "title": "Tools and Platforms"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "1. Strategy Development Frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2. Data Providers"
+    },
+    {
+      "description": "Significant books in quantitative finance, algorithmic trading, and market data analysis. Each has proven invaluable for learning and applying quantitative techniques in the financial markets.",
+      "items": [],
+      "title": "Books"
+    },
+    {
+      "description": "Seminal and recent research that advances the field of quantitative finance.",
+      "items": [],
+      "title": "Research Papers"
+    },
+    {
+      "description": "Original research and in-depth notes by this list's maintainer.",
+      "items": [],
+      "title": "Original Research and Notes"
+    },
+    {
+      "description": "Communities, forums, and conferences dedicated to quantitative finance and AI in trading.",
+      "items": [],
+      "title": "Community and Conferences"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-deep-learning",
+          "description": "Curated list of deep learning tutorials, projects, and communities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-26T12:28:00Z",
+            "owner": "ChristosChristofidis",
+            "repo": "awesome-deep-learning",
+            "stars": 28741
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-quant",
+          "description": "Curated list of libraries, packages, and resources for quants, organized by programming language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T01:30:22Z",
+            "owner": "wilsonfreitas",
+            "repo": "awesome-quant",
+            "stars": 28726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-systematic-trading",
+          "description": "Curated list of systematic trading tools and strategies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-22T07:49:32Z",
+            "owner": "paperswithbacktest",
+            "repo": "awesome-systematic-trading",
+            "stars": 13245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ai-in-finance",
+          "description": "Resources for AI applications in the financial industry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-04T09:34:24Z",
+            "owner": "georgezouq",
+            "repo": "awesome-ai-in-finance",
+            "stars": 6390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytrade.org",
+          "description": "Directory of Python packages and resources for algo-trading.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-01T08:58:18Z",
+            "owner": "PFund-Software-Ltd",
+            "repo": "pytrade.org",
+            "stars": 235
+          }
+        }
+      ],
+      "title": "Related Lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:32:09.979Z",
+    "original_repository": "leoncuhk/awesome-quant-ai",
+    "original_repository_sha": "7cf0e0037bcf0108034c09bd8680c428a97a9f20",
+    "enhanced_repository": "enhansome/enhansome-quant-ai",
+    "enhanced_repository_description": null,
+    "title": "Awesome Quant AI with stars"
+  }
+}
