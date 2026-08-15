@@ -29,7 +29,7 @@
             "last_commit": "2026-07-18T15:55:05Z",
             "owner": "TauricResearch",
             "repo": "TradingAgents",
-            "stars": 98065
+            "stars": 98218
           }
         },
         {
@@ -40,10 +40,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T14:28:33Z",
+            "last_commit": "2026-08-15T06:51:38Z",
             "owner": "HKUDS",
             "repo": "Vibe-Trading",
-            "stars": 30815
+            "stars": 30872
           }
         },
         {
@@ -57,7 +57,7 @@
             "last_commit": "2026-08-02T03:23:48Z",
             "owner": "AI4Finance-Foundation",
             "repo": "FinGPT",
-            "stars": 21083
+            "stars": 21090
           }
         },
         {
@@ -71,7 +71,7 @@
             "last_commit": "2026-07-13T23:02:18Z",
             "owner": "AI4Finance-Foundation",
             "repo": "FinRL",
-            "stars": 16005
+            "stars": 16014
           }
         },
         {
@@ -85,7 +85,7 @@
             "last_commit": "2026-07-27T07:06:05Z",
             "owner": "AI4Finance-Foundation",
             "repo": "FinRobot",
-            "stars": 7780
+            "stars": 7787
           }
         },
         {
@@ -119,7 +119,7 @@
             "last_commit": "2026-07-14T03:27:18Z",
             "owner": "google-research",
             "repo": "timesfm",
-            "stars": 27305
+            "stars": 27400
           }
         },
         {
@@ -130,10 +130,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T07:30:35Z",
+            "last_commit": "2026-08-14T10:43:25Z",
             "owner": "amazon-science",
             "repo": "chronos-forecasting",
-            "stars": 5705
+            "stars": 5709
           }
         },
         {
@@ -144,10 +144,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-10T20:42:41Z",
+            "last_commit": "2026-08-14T08:37:05Z",
             "owner": "Nixtla",
             "repo": "nixtla",
-            "stars": 3986
+            "stars": 3987
           }
         },
         {
@@ -189,7 +189,7 @@
             "last_commit": "2026-06-02T18:53:33Z",
             "owner": "SalesforceAIResearch",
             "repo": "uni2ts",
-            "stars": 1572
+            "stars": 1571
           }
         }
       ],
@@ -209,7 +209,7 @@
             "last_commit": "2026-08-04T11:50:56Z",
             "owner": "microsoft",
             "repo": "RD-Agent",
-            "stars": 14225
+            "stars": 14228
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2026-06-04T05:54:38Z",
             "owner": "ICT-FinD-Lab",
             "repo": "alphagen",
-            "stars": 1189
+            "stars": 1192
           }
         }
       ],
@@ -365,6 +365,20 @@
       "items": [
         {
           "node_type": "item",
+          "title": "awesome-quant",
+          "description": "Curated list of libraries, packages, and resources for quants, organized by programming language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-15T01:28:17Z",
+            "owner": "wilsonfreitas",
+            "repo": "awesome-quant",
+            "stars": 28773
+          }
+        },
+        {
+          "node_type": "item",
           "title": "awesome-deep-learning",
           "description": "Curated list of deep learning tutorials, projects, and communities.",
           "children": [],
@@ -374,21 +388,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28753
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-quant",
-          "description": "Curated list of libraries, packages, and resources for quants, organized by programming language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-14T01:30:28Z",
-            "owner": "wilsonfreitas",
-            "repo": "awesome-quant",
-            "stars": 28748
+            "stars": 28756
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2025-01-22T07:49:32Z",
             "owner": "paperswithbacktest",
             "repo": "awesome-systematic-trading",
-            "stars": 13290
+            "stars": 13321
           }
         },
         {
@@ -416,7 +416,7 @@
             "last_commit": "2026-08-04T09:34:24Z",
             "owner": "georgezouq",
             "repo": "awesome-ai-in-finance",
-            "stars": 6398
+            "stars": 6402
           }
         },
         {
@@ -438,7 +438,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T07:52:55.069Z",
+    "last_updated": "2026-08-15T06:58:37.227Z",
     "original_repository": "leoncuhk/awesome-quant-ai",
     "original_repository_sha": "7cf0e0037bcf0108034c09bd8680c428a97a9f20",
     "enhanced_repository": "enhansome/enhansome-quant-ai",
