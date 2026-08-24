@@ -6,6 +6,99 @@
         {
           "children": [
             {
+              "node_type": "group",
+              "title": "Key resources:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Hummingbot",
+                  "description": "Open-source framework for running market-making and arbitrage bots on centralized and decentralized exchanges.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 179163124,
+                    "language": "Python",
+                    "last_commit": "2026-08-22T03:17:08Z",
+                    "owner": "hummingbot",
+                    "repo": "hummingbot",
+                    "stars": 19583
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "3. High-Frequency Trading (HFT)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Key resources:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "pysystemtrade",
+                  "description": "Robert Carver's open-source systematic futures trading framework implementing his book's methodology.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 46975254,
+                    "language": "Python",
+                    "last_commit": "2026-07-18T13:30:24Z",
+                    "owner": "pst-group",
+                    "repo": "pysystemtrade",
+                    "stars": 3476
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "4. Trend Following"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Key resources:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "machine-learning-for-trading",
+                  "description": "Stefan Jansen's companion code to his book: 150+ notebooks covering the full ML4T workflow from data to deployment.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 132754148,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-08-24T14:22:40Z",
+                    "owner": "stefan-jansen",
+                    "repo": "machine-learning-for-trading",
+                    "stars": 20603
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "9. Machine Learning and AI Strategies"
+        }
+      ],
+      "title": "Quantitative Trading Strategies"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "TradingAgents",
               "description": "Multi-agent LLM trading framework simulating trading firm dynamics with specialized analyst and trader roles; built with LangGraph, supports GPT, Gemini, Claude, and Grok.",
@@ -17,7 +110,7 @@
                 "last_commit": "2026-07-18T15:55:05Z",
                 "owner": "TauricResearch",
                 "repo": "TradingAgents",
-                "stars": 99585
+                "stars": 99669
               }
             },
             {
@@ -29,10 +122,10 @@
                 "archived": false,
                 "id": 1198306812,
                 "language": "Python",
-                "last_commit": "2026-08-22T17:31:53Z",
+                "last_commit": "2026-08-24T08:16:29Z",
                 "owner": "HKUDS",
                 "repo": "Vibe-Trading",
-                "stars": 31592
+                "stars": 31627
               }
             },
             {
@@ -47,7 +140,7 @@
                 "last_commit": "2026-08-02T03:23:48Z",
                 "owner": "AI4Finance-Foundation",
                 "repo": "FinGPT",
-                "stars": 21140
+                "stars": 21143
               }
             },
             {
@@ -62,7 +155,7 @@
                 "last_commit": "2026-07-13T23:02:18Z",
                 "owner": "AI4Finance-Foundation",
                 "repo": "FinRL",
-                "stars": 16078
+                "stars": 16082
               }
             },
             {
@@ -77,7 +170,7 @@
                 "last_commit": "2026-08-23T12:06:08Z",
                 "owner": "AI4Finance-Foundation",
                 "repo": "FinRobot",
-                "stars": 7844
+                "stars": 7848
               }
             },
             {
@@ -114,7 +207,7 @@
                 "last_commit": "2026-07-14T03:27:18Z",
                 "owner": "google-research",
                 "repo": "timesfm",
-                "stars": 28182
+                "stars": 28201
               }
             },
             {
@@ -129,7 +222,7 @@
                 "last_commit": "2026-08-14T10:43:25Z",
                 "owner": "amazon-science",
                 "repo": "chronos-forecasting",
-                "stars": 5744
+                "stars": 5746
               }
             },
             {
@@ -144,7 +237,7 @@
                 "last_commit": "2026-08-21T23:28:13Z",
                 "owner": "Nixtla",
                 "repo": "nixtla",
-                "stars": 3993
+                "stars": 3994
               }
             },
             {
@@ -174,7 +267,7 @@
                 "last_commit": "2025-06-06T12:23:52Z",
                 "owner": "time-series-foundation-models",
                 "repo": "lag-llama",
-                "stars": 1600
+                "stars": 1601
               }
             },
             {
@@ -189,7 +282,7 @@
                 "last_commit": "2026-06-02T18:53:33Z",
                 "owner": "SalesforceAIResearch",
                 "repo": "uni2ts",
-                "stars": 1577
+                "stars": 1578
               }
             }
           ],
@@ -211,7 +304,7 @@
                 "last_commit": "2026-08-04T11:50:56Z",
                 "owner": "microsoft",
                 "repo": "RD-Agent",
-                "stars": 14324
+                "stars": 14326
               }
             },
             {
@@ -226,13 +319,35 @@
                 "last_commit": "2026-06-04T05:54:38Z",
                 "owner": "ICT-FinD-Lab",
                 "repo": "alphagen",
-                "stars": 1203
+                "stars": 1202
               }
             }
           ],
           "description": "Automating the factor-research loop itself: LLM- and RL-based systems that propose, implement, and backtest alpha factors and models with minimal human intervention.",
           "node_type": "group",
           "title": "AI-Driven Alpha Mining"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PIXIU",
+              "description": "Open-source financial LLM toolkit with the FLARE evaluation benchmark, instruction-tuning data, and the FinMA model family.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 648461026,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-03-04T16:57:22Z",
+                "owner": "The-FinAI",
+                "repo": "PIXIU",
+                "stars": 884
+              }
+            }
+          ],
+          "description": "Standardized benchmarks for measuring what LLMs actually know and can do in finance — essential due diligence before trusting any model with financial analysis.",
+          "node_type": "group",
+          "title": "Financial LLM Evaluation Benchmarks"
         },
         {
           "children": [
@@ -312,7 +427,7 @@
                 "archived": false,
                 "id": 822453964,
                 "language": "Rust",
-                "last_commit": "2026-08-21T11:26:27Z",
+                "last_commit": "2026-08-24T13:36:46Z",
                 "owner": "flashbots",
                 "repo": "rbuilder",
                 "stars": 562
@@ -342,6 +457,251 @@
       "title": "Frontier: Emerging Topics (2025/2026)"
     },
     {
+      "description": "List of software tools and platforms used in quantitative finance.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Qlib",
+              "description": "AI-oriented quant research platform: factor library, model zoo, workflow automation Microsoft; the reference open-source platform for ML-driven quant research",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287463830,
+                "language": "Python",
+                "last_commit": "2026-07-23T08:15:29Z",
+                "owner": "microsoft",
+                "repo": "qlib",
+                "stars": 47903
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenBB",
+              "description": "Open-source investment research terminal aggregating equity, macro, and crypto data Free CLI + SDK; large active community",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 323048702,
+                "language": "Python",
+                "last_commit": "2026-07-30T17:33:42Z",
+                "owner": "OpenBB-finance",
+                "repo": "OpenBB",
+                "stars": 72236
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LEAN",
+              "description": "Institution-grade backtesting and live-trading engine (equities, futures, options, crypto) Open-source engine behind QuantConnect",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27251463,
+                "language": "C#",
+                "last_commit": "2026-08-24T13:18:10Z",
+                "owner": "QuantConnect",
+                "repo": "Lean",
+                "stars": 21333
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NautilusTrader",
+              "description": "High-performance event-driven backtesting and live trading Rust core with Python API; nanosecond precision",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138552196,
+                "language": "Rust",
+                "last_commit": "2026-08-24T14:20:26Z",
+                "owner": "nautechsystems",
+                "repo": "nautilus_trader",
+                "stars": 27617
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vectorbt",
+              "description": "Vectorized backtesting at scale — thousands of parameter combinations in seconds Built on NumPy/Numba; ideal for fast strategy sweeps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110684325,
+                "language": "Python",
+                "last_commit": "2026-08-02T09:14:10Z",
+                "owner": "polakowo",
+                "repo": "vectorbt",
+                "stars": 8807
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Backtrader",
+              "description": "Feature-rich event-driven backtesting Mature and widely taught, though maintenance has slowed",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29050338,
+                "language": "Python",
+                "last_commit": "2024-08-19T17:47:36Z",
+                "owner": "mementum",
+                "repo": "backtrader",
+                "stars": 22945
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zipline-reloaded",
+              "description": "Community-maintained fork of Quantopian's Zipline Original Zipline is unmaintained since Quantopian's 2020 shutdown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 342145253,
+                "language": "Python",
+                "last_commit": "2026-01-06T13:01:54Z",
+                "owner": "stefan-jansen",
+                "repo": "zipline-reloaded",
+                "stars": 1927
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pybroker",
+              "description": "Backtesting framework designed for ML-driven strategies Built-in walk-forward analysis and bootstrapped metrics",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 589385734,
+                "language": "Python",
+                "last_commit": "2026-08-23T01:48:54Z",
+                "owner": "edtechre",
+                "repo": "pybroker",
+                "stars": 3513
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Riskfolio-Lib",
+              "description": "Portfolio optimization: mean-risk, risk parity, hierarchical clustering methods 20+ risk measures; strong documentation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244460835,
+                "language": "C++",
+                "last_commit": "2026-08-18T17:08:34Z",
+                "owner": "dcajasn",
+                "repo": "Riskfolio-Lib",
+                "stars": 4457
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "skfolio",
+              "description": "Portfolio optimization with a scikit-learn-compatible API Cross-validation and hyperparameter tuning for allocation models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 731792488,
+                "language": "Python",
+                "last_commit": "2026-08-23T22:11:32Z",
+                "owner": "skfolio",
+                "repo": "skfolio",
+                "stars": 2236
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ray/RLlib",
+              "description": "Distributed reinforcement learning for adaptive strategies Industry-standard RL infrastructure",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71932349,
+                "language": "Python",
+                "last_commit": "2026-08-24T12:25:44Z",
+                "owner": "ray-project",
+                "repo": "ray",
+                "stars": 43598
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ml-quant-trading",
+              "description": "A-share multi-factor research stack: 213-dim tensor factor engine, bias correction, ML baselines, Markowitz optimization Early-stage research codebase accompanying an arXiv paper; notably transparent about validation status and non-goals",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 996777566,
+                "language": "Python",
+                "last_commit": "2026-08-24T10:25:52Z",
+                "owner": "initial-d",
+                "repo": "ml-quant-trading",
+                "stars": 79
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "1. Strategy Development Frameworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "yfinance",
+              "description": "Python wrapper for Yahoo Finance data Free equity/ETF/FX/crypto prices for research and prototyping",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91948540,
+                "language": "Python",
+                "last_commit": "2026-08-20T11:24:14Z",
+                "owner": "ranaroussi",
+                "repo": "yfinance",
+                "stars": 25065
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "akshare",
+              "description": "Free Python library for Chinese market data (A-shares, futures, funds, macro) China market research; no account required",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 212037775,
+                "language": "Python",
+                "last_commit": "2026-08-21T05:17:37Z",
+                "owner": "akfamily",
+                "repo": "akshare",
+                "stars": 22211
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stock-analysis",
+              "description": "Evidence-driven A/HK/US stock and fund recap CLI that emits JSON Evidence Packs Multi-source public-data fallback for agent workflows, daily reports, and audit-ready market notes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1251062095,
+                "language": "Python",
+                "last_commit": "2026-07-28T13:51:34Z",
+                "owner": "AdvancingTitans",
+                "repo": "stock-analysis",
+                "stars": 24
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2. Data Providers"
+        }
+      ],
+      "title": "Tools and Platforms"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -356,7 +716,7 @@
             "last_commit": "2026-08-24T01:28:51Z",
             "owner": "wilsonfreitas",
             "repo": "awesome-quant",
-            "stars": 29106
+            "stars": 29119
           }
         },
         {
@@ -371,7 +731,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28803
+            "stars": 28804
           }
         },
         {
@@ -386,7 +746,7 @@
             "last_commit": "2025-01-22T07:49:32Z",
             "owner": "paperswithbacktest",
             "repo": "awesome-systematic-trading",
-            "stars": 13909
+            "stars": 13921
           }
         },
         {
@@ -401,7 +761,7 @@
             "last_commit": "2026-08-04T09:34:24Z",
             "owner": "georgezouq",
             "repo": "awesome-ai-in-finance",
-            "stars": 6430
+            "stars": 6435
           }
         },
         {
@@ -424,7 +784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:30:08.728Z",
+    "last_updated": "2026-08-24T14:23:22.599Z",
     "original_repository": "leoncuhk/awesome-quant-ai",
     "original_repository_id": 823919159,
     "original_repository_sha": "ccfff58bce85b9afc47be45068445c5ae0093372",
