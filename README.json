@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-18T15:55:05Z",
                 "owner": "TauricResearch",
                 "repo": "TradingAgents",
-                "stars": 99325
+                "stars": 99585
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-22T17:31:53Z",
                 "owner": "HKUDS",
                 "repo": "Vibe-Trading",
-                "stars": 31495
+                "stars": 31592
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-02T03:23:48Z",
                 "owner": "AI4Finance-Foundation",
                 "repo": "FinGPT",
-                "stars": 21133
+                "stars": 21140
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-07-13T23:02:18Z",
                 "owner": "AI4Finance-Foundation",
                 "repo": "FinRL",
-                "stars": 16069
+                "stars": 16078
               }
             },
             {
@@ -74,10 +74,10 @@
                 "archived": false,
                 "id": 763842651,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-07-27T07:06:05Z",
+                "last_commit": "2026-08-23T12:06:08Z",
                 "owner": "AI4Finance-Foundation",
                 "repo": "FinRobot",
-                "stars": 7837
+                "stars": 7844
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-07-14T03:27:18Z",
                 "owner": "google-research",
                 "repo": "timesfm",
-                "stars": 28103
+                "stars": 28182
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-14T10:43:25Z",
                 "owner": "amazon-science",
                 "repo": "chronos-forecasting",
-                "stars": 5739
+                "stars": 5744
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2024-08-12T13:12:51Z",
                 "owner": "yuqinie98",
                 "repo": "PatchTST",
-                "stars": 2685
+                "stars": 2686
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2025-06-06T12:23:52Z",
                 "owner": "time-series-foundation-models",
                 "repo": "lag-llama",
-                "stars": 1601
+                "stars": 1600
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2026-06-02T18:53:33Z",
                 "owner": "SalesforceAIResearch",
                 "repo": "uni2ts",
-                "stars": 1576
+                "stars": 1577
               }
             }
           ],
@@ -211,7 +211,7 @@
                 "last_commit": "2026-08-04T11:50:56Z",
                 "owner": "microsoft",
                 "repo": "RD-Agent",
-                "stars": 14315
+                "stars": 14324
               }
             },
             {
@@ -226,7 +226,7 @@
                 "last_commit": "2026-06-04T05:54:38Z",
                 "owner": "ICT-FinD-Lab",
                 "repo": "alphagen",
-                "stars": 1202
+                "stars": 1203
               }
             }
           ],
@@ -353,10 +353,10 @@
             "archived": false,
             "id": 43425480,
             "language": "HTML",
-            "last_commit": "2026-08-23T01:28:33Z",
+            "last_commit": "2026-08-24T01:28:51Z",
             "owner": "wilsonfreitas",
             "repo": "awesome-quant",
-            "stars": 29067
+            "stars": 29106
           }
         },
         {
@@ -371,7 +371,7 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28798
+            "stars": 28803
           }
         },
         {
@@ -386,7 +386,7 @@
             "last_commit": "2025-01-22T07:49:32Z",
             "owner": "paperswithbacktest",
             "repo": "awesome-systematic-trading",
-            "stars": 13869
+            "stars": 13909
           }
         },
         {
@@ -401,7 +401,7 @@
             "last_commit": "2026-08-04T09:34:24Z",
             "owner": "georgezouq",
             "repo": "awesome-ai-in-finance",
-            "stars": 6428
+            "stars": 6430
           }
         },
         {
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T07:02:27.982Z",
+    "last_updated": "2026-08-24T07:30:08.728Z",
     "original_repository": "leoncuhk/awesome-quant-ai",
     "original_repository_id": 823919159,
     "original_repository_sha": "ccfff58bce85b9afc47be45068445c5ae0093372",
