@@ -19,11 +19,12 @@
                     "archived": false,
                     "id": 179163124,
                     "language": "Python",
-                    "last_commit": "2026-08-27T17:16:30Z",
+                    "last_commit": "2026-08-28T14:53:45Z",
                     "owner": "hummingbot",
                     "repo": "hummingbot",
-                    "stars": 19661
-                  }
+                    "stars": 19684
+                  },
+                  "first_seen": "2026-08-28T18:45:01.953Z"
                 }
               ]
             }
@@ -51,8 +52,9 @@
                     "last_commit": "2026-07-18T13:30:24Z",
                     "owner": "pst-group",
                     "repo": "pysystemtrade",
-                    "stars": 3487
-                  }
+                    "stars": 3490
+                  },
+                  "first_seen": "2026-08-28T18:45:01.953Z"
                 }
               ]
             }
@@ -77,11 +79,12 @@
                     "archived": false,
                     "id": 132754148,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-27T17:37:22Z",
+                    "last_commit": "2026-08-28T18:36:20Z",
                     "owner": "stefan-jansen",
                     "repo": "machine-learning-for-trading",
-                    "stars": 20688
-                  }
+                    "stars": 20709
+                  },
+                  "first_seen": "2026-08-28T18:45:01.953Z"
                 }
               ]
             }
@@ -110,8 +113,9 @@
                 "last_commit": "2026-07-18T15:55:05Z",
                 "owner": "TauricResearch",
                 "repo": "TradingAgents",
-                "stars": 101044
-              }
+                "stars": 101567
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -122,11 +126,12 @@
                 "archived": false,
                 "id": 1198306812,
                 "language": "Python",
-                "last_commit": "2026-08-27T07:02:29Z",
+                "last_commit": "2026-08-28T15:48:29Z",
                 "owner": "HKUDS",
                 "repo": "Vibe-Trading",
-                "stars": 31877
-              }
+                "stars": 31960
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -140,8 +145,9 @@
                 "last_commit": "2026-08-02T03:23:48Z",
                 "owner": "AI4Finance-Foundation",
                 "repo": "FinGPT",
-                "stars": 21160
-              }
+                "stars": 21168
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -155,8 +161,9 @@
                 "last_commit": "2026-07-13T23:02:18Z",
                 "owner": "AI4Finance-Foundation",
                 "repo": "FinRL",
-                "stars": 16118
-              }
+                "stars": 16128
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -170,8 +177,9 @@
                 "last_commit": "2026-08-23T12:06:08Z",
                 "owner": "AI4Finance-Foundation",
                 "repo": "FinRobot",
-                "stars": 7875
-              }
+                "stars": 7883
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -185,8 +193,9 @@
                 "last_commit": "2026-05-08T07:48:25Z",
                 "owner": "YichengYang-Ethan",
                 "repo": "oracle3",
-                "stars": 248
-              }
+                "stars": 249
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             }
           ],
           "description": "Multi-agent systems using large language models in specialized roles (analyst, trader, risk manager) to collaboratively process unstructured data and make trading decisions — representing a shift from fixed-rule systems toward autonomous, adaptive trading.",
@@ -204,11 +213,12 @@
                 "archived": false,
                 "id": 793784055,
                 "language": "Python",
-                "last_commit": "2026-07-14T03:27:18Z",
+                "last_commit": "2026-08-28T00:36:16Z",
                 "owner": "google-research",
                 "repo": "timesfm",
-                "stars": 28282
-              }
+                "stars": 28291
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -222,8 +232,9 @@
                 "last_commit": "2026-08-14T10:43:25Z",
                 "owner": "amazon-science",
                 "repo": "chronos-forecasting",
-                "stars": 5767
-              }
+                "stars": 5771
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -234,11 +245,12 @@
                 "archived": false,
                 "id": 409653223,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-27T05:13:52Z",
+                "last_commit": "2026-08-28T14:05:31Z",
                 "owner": "Nixtla",
                 "repo": "nixtla",
                 "stars": 3997
-              }
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -252,8 +264,9 @@
                 "last_commit": "2024-08-12T13:12:51Z",
                 "owner": "yuqinie98",
                 "repo": "PatchTST",
-                "stars": 2687
-              }
+                "stars": 2688
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -268,7 +281,8 @@
                 "owner": "time-series-foundation-models",
                 "repo": "lag-llama",
                 "stars": 1601
-              }
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -283,7 +297,8 @@
                 "owner": "SalesforceAIResearch",
                 "repo": "uni2ts",
                 "stars": 1580
-              }
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             }
           ],
           "description": "Pre-trained transformer models for temporal data that can forecast time series zero-shot or few-shot — offering out-of-the-box price/volatility forecasting and regime identification without task-specific training.",
@@ -304,8 +319,9 @@
                 "last_commit": "2026-08-04T11:50:56Z",
                 "owner": "microsoft",
                 "repo": "RD-Agent",
-                "stars": 14348
-              }
+                "stars": 14354
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -320,7 +336,8 @@
                 "owner": "ICT-FinD-Lab",
                 "repo": "alphagen",
                 "stars": 1205
-              }
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             }
           ],
           "description": "Automating the factor-research loop itself: LLM- and RL-based systems that propose, implement, and backtest alpha factors and models with minimal human intervention.",
@@ -342,7 +359,8 @@
                 "owner": "The-FinAI",
                 "repo": "PIXIU",
                 "stars": 884
-              }
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             }
           ],
           "description": "Standardized benchmarks for measuring what LLMs actually know and can do in finance — essential due diligence before trusting any model with financial analysis.",
@@ -364,7 +382,8 @@
                 "owner": "LeonardoBerti00",
                 "repo": "DeepMarket",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -379,7 +398,8 @@
                 "owner": "sattarov",
                 "repo": "FinDiff",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             }
           ],
           "description": "Denoising diffusion models applied to generate realistic synthetic market data — price series, order flows, and limit order books — enabling robust stress-testing and data augmentation for data-starved financial ML.",
@@ -400,8 +420,9 @@
                 "last_commit": "2026-03-14T19:04:35Z",
                 "owner": "OffcierCia",
                 "repo": "ultimate-defi-research-base",
-                "stars": 2211
-              }
+                "stars": 2212
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -416,7 +437,8 @@
                 "owner": "flashbots",
                 "repo": "mev-boost",
                 "stars": 1437
-              }
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -427,11 +449,12 @@
                 "archived": false,
                 "id": 822453964,
                 "language": "Rust",
-                "last_commit": "2026-08-24T13:36:46Z",
+                "last_commit": "2026-08-27T21:55:36Z",
                 "owner": "flashbots",
                 "repo": "rbuilder",
-                "stars": 564
-              }
+                "stars": 563
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -442,11 +465,12 @@
                 "archived": false,
                 "id": 349025113,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T09:49:19Z",
+                "last_commit": "2026-08-28T07:29:59Z",
                 "owner": "DefiLlama",
                 "repo": "defillama-sdk",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             }
           ],
           "description": "Quantitative approaches to decentralized finance: MEV extraction, AMM liquidity provision optimization, yield farming, and on-chain analytics across hundreds of chains.",
@@ -473,8 +497,9 @@
                 "last_commit": "2026-07-23T08:15:29Z",
                 "owner": "microsoft",
                 "repo": "qlib",
-                "stars": 47980
-              }
+                "stars": 48015
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -488,8 +513,9 @@
                 "last_commit": "2026-07-30T17:33:42Z",
                 "owner": "OpenBB-finance",
                 "repo": "OpenBB",
-                "stars": 72375
-              }
+                "stars": 72408
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -500,11 +526,12 @@
                 "archived": false,
                 "id": 27251463,
                 "language": "C#",
-                "last_commit": "2026-08-27T17:31:11Z",
+                "last_commit": "2026-08-28T16:04:54Z",
                 "owner": "QuantConnect",
                 "repo": "Lean",
-                "stars": 21374
-              }
+                "stars": 21387
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -515,11 +542,12 @@
                 "archived": false,
                 "id": 138552196,
                 "language": "Rust",
-                "last_commit": "2026-08-27T12:33:01Z",
+                "last_commit": "2026-08-28T18:05:49Z",
                 "owner": "nautechsystems",
                 "repo": "nautilus_trader",
-                "stars": 27948
-              }
+                "stars": 28014
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -533,8 +561,9 @@
                 "last_commit": "2026-08-02T09:14:10Z",
                 "owner": "polakowo",
                 "repo": "vectorbt",
-                "stars": 8859
-              }
+                "stars": 8880
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -548,8 +577,9 @@
                 "last_commit": "2024-08-19T17:47:36Z",
                 "owner": "mementum",
                 "repo": "backtrader",
-                "stars": 22992
-              }
+                "stars": 23009
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -563,8 +593,9 @@
                 "last_commit": "2026-01-06T13:01:54Z",
                 "owner": "stefan-jansen",
                 "repo": "zipline-reloaded",
-                "stars": 1928
-              }
+                "stars": 1930
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -575,11 +606,12 @@
                 "archived": false,
                 "id": 589385734,
                 "language": "Python",
-                "last_commit": "2026-08-25T18:22:25Z",
+                "last_commit": "2026-08-28T03:44:38Z",
                 "owner": "edtechre",
                 "repo": "pybroker",
-                "stars": 3517
-              }
+                "stars": 3519
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -593,8 +625,9 @@
                 "last_commit": "2026-08-18T17:08:34Z",
                 "owner": "dcajasn",
                 "repo": "Riskfolio-Lib",
-                "stars": 4464
-              }
+                "stars": 4468
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -608,8 +641,9 @@
                 "last_commit": "2026-08-25T13:29:57Z",
                 "owner": "skfolio",
                 "repo": "skfolio",
-                "stars": 2288
-              }
+                "stars": 2302
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -620,11 +654,12 @@
                 "archived": false,
                 "id": 71932349,
                 "language": "Python",
-                "last_commit": "2026-08-27T17:39:09Z",
+                "last_commit": "2026-08-28T18:27:37Z",
                 "owner": "ray-project",
                 "repo": "ray",
-                "stars": 43622
-              }
+                "stars": 43638
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -639,7 +674,8 @@
                 "owner": "initial-d",
                 "repo": "ml-quant-trading",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             }
           ],
           "description": null,
@@ -660,8 +696,9 @@
                 "last_commit": "2026-08-27T11:23:24Z",
                 "owner": "ranaroussi",
                 "repo": "yfinance",
-                "stars": 25087
-              }
+                "stars": 25097
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -672,11 +709,12 @@
                 "archived": false,
                 "id": 212037775,
                 "language": "Python",
-                "last_commit": "2026-08-26T04:19:00Z",
+                "last_commit": "2026-08-28T06:07:36Z",
                 "owner": "akfamily",
                 "repo": "akshare",
-                "stars": 22260
-              }
+                "stars": 22283
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             },
             {
               "node_type": "item",
@@ -691,7 +729,8 @@
                 "owner": "AdvancingTitans",
                 "repo": "stock-analysis",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T18:45:01.953Z"
             }
           ],
           "description": null,
@@ -713,11 +752,12 @@
             "archived": false,
             "id": 43425480,
             "language": "HTML",
-            "last_commit": "2026-08-27T02:32:05Z",
+            "last_commit": "2026-08-28T03:41:58Z",
             "owner": "wilsonfreitas",
             "repo": "awesome-quant",
-            "stars": 29230
-          }
+            "stars": 29260
+          },
+          "first_seen": "2026-08-28T18:45:01.953Z"
         },
         {
           "node_type": "item",
@@ -731,8 +771,9 @@
             "last_commit": "2025-05-26T12:28:00Z",
             "owner": "ChristosChristofidis",
             "repo": "awesome-deep-learning",
-            "stars": 28818
-          }
+            "stars": 28824
+          },
+          "first_seen": "2026-08-28T18:45:01.953Z"
         },
         {
           "node_type": "item",
@@ -746,8 +787,9 @@
             "last_commit": "2026-08-27T13:00:48Z",
             "owner": "paperswithbacktest",
             "repo": "awesome-systematic-trading",
-            "stars": 14009
-          }
+            "stars": 14028
+          },
+          "first_seen": "2026-08-28T18:45:01.953Z"
         },
         {
           "node_type": "item",
@@ -761,8 +803,9 @@
             "last_commit": "2026-08-04T09:34:24Z",
             "owner": "georgezouq",
             "repo": "awesome-ai-in-finance",
-            "stars": 6445
-          }
+            "stars": 6449
+          },
+          "first_seen": "2026-08-28T18:45:01.953Z"
         },
         {
           "node_type": "item",
@@ -777,14 +820,15 @@
             "owner": "PFund-Software-Ltd",
             "repo": "pytrade.org",
             "stars": 235
-          }
+          },
+          "first_seen": "2026-08-28T18:45:01.953Z"
         }
       ],
       "title": "Related Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:39:25.009Z",
+    "last_updated": "2026-08-28T18:45:01.953Z",
     "original_repository_info": {
       "archived": false,
       "id": 823919159,
@@ -792,7 +836,7 @@
       "last_commit": "2026-08-18T12:51:02Z",
       "owner": "leoncuhk",
       "repo": "awesome-quant-ai",
-      "stars": 577
+      "stars": 579
     },
     "original_repository_sha": "ccfff58bce85b9afc47be45068445c5ae0093372",
     "enhanced_repository": "enhansome/enhansome-quant-ai",
